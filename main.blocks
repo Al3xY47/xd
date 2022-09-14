@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="CPm*W.Olq7lpxmFX{@$v" x="290" y="-60"></block><block type="pxt-on-start" id="R5r2J~lEhAN].FtjK}7R" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="l9U!R+@VGyT]4R},;Y3."><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field></block></statement></block><block type="game_create_sprite" id=")BX}vJ=6-q;JIVV#)={Q" disabled="true" x="237" y="96"><value name="x"><shadow type="math_number" id="f4E!+bP^yr+QjUNp1i)i" disabled="true"><field name="NUM">3</field></shadow></value><value name="y"><shadow type="math_number" id="-u:,Y[IW#K_uU4)|-%Y|" disabled="true"><field name="NUM">5</field></shadow></value></block><block type="device_build_big_image" id="Pm5i,yApC-y|#@BKZKEW" disabled="true" x="234" y="169"><field name="LEDS">`
+        . . . . . . . # . . 
+        . . # # # . . # . . 
+        # # # # . # # . . . 
+        . . # # # # # . . . 
+        . . . # . . . . . .
+        `</field></block></xml>
